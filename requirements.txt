@@ -1,0 +1,4 @@
+cv2
+supervision
+inference
+tqdm
