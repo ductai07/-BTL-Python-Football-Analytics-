@@ -28,7 +28,8 @@ API : Flask
 
 **4.Demo output**  
 
-[](https://github.com/ductai07/-BTL-Python-Football-Analytics-/blob/dev/static/results/video_2/tracking_video.mp4)
+[](https://github.com/ductai07/-BTL-Python-Football-Analytics-/blob/dev/static/results/video_2/tracking_video.mp4?raw=true)
+
 
 
 
