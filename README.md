@@ -26,9 +26,10 @@ API : Flask
 +Model IDs: Ensure that the model IDs used in get_model correspond to models you have access to.  
 +Frame Stride and Rate: Adjust STRIDE, FRAME_RATE, and FPS to control the processing speed and output video frame rates.  
 
-**4.Demo output**  
+**4.Demo output**   
+Xem rõ hơn ở mục static
 
-[](https://github.com/ductai07/-BTL-Python-Football-Analytics-/blob/dev/static/results/video_2/tracking_video.mp4?raw=true)
+
 
 
 
