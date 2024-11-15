@@ -1,9 +1,9 @@
 # Football Analysis and Visualization
 ## Description:  
-Dataset : Roboflow  
-Model : YOLOv8
-Famework : utralytics,openCV,deepsort,supervision
-API : Flask
+Dataset : Roboflow    
+Model : YOLOv8    
+Famework : utralytics,openCV,deepsort,supervision  
+API : Flask  
 
 ## Install and setup:  
 **1.Features**    
@@ -18,13 +18,13 @@ API : Flask
 +Player Projection Video: Shows the positions of players and the ball on a model soccer pitch.  
 +Voronoi Diagram Video: Visualizes the area of influence for each player using Voronoi diagrams on the pitch.  
 
-**2.Install** 
+**2.Install**   
 ```pip install -r requirements.txt```  
 
 **3.Customization**  
 +API Keys: Replace 'YOUR_API_KEY' in the script with your actual API key for accessing the models.  
 +Model IDs: Ensure that the model IDs used in get_model correspond to models you have access to.  
-+Frame Stride and Rate: Adjust STRIDE, FRAME_RATE, and FPS to control the processing speed and output video frame rates.  
++Frame Stride and Rate: Adjust STRIDE, FRAME_RATE, and FPS to control the processing speed and output video frame rates.    
 
 **4.Demo output**   
 Xem rõ hơn ở mục static
